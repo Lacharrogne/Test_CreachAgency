@@ -43,7 +43,7 @@ enum QuestionType {
   TEXT
   NUMBER
   RADIO
-  MULTI_SELECT
+  CHECKBOX
   TEXTAREA
 }
 

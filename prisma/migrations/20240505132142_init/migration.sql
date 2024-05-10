@@ -1,5 +1,5 @@
 -- CreateEnum
-CREATE TYPE "QuestionType" AS ENUM ('TEXT', 'NUMBER', 'RADIO', 'MULTI_SELECT', 'TEXTAREA');
+CREATE TYPE "QuestionType" AS ENUM ('TEXT', 'NUMBER', 'RADIO', 'CHECKBOX', 'TEXTAREA');
 
 -- CreateTable
 CREATE TABLE "Question" (
